@@ -1,0 +1,39 @@
+h2
+{
+    font-family: 'Seaweed Script', cursive;
+    color: rgb(84, 37, 83);
+}
+body
+{
+    background: rgb(28, 77, 98);
+}
+.header_div
+{
+    color: rgba(255, 88, 55, 1);
+}
+.header_div p{
+    font-family: 'Sansita Swashed', cursive;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgba(116, 210, 192, 1);
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    color: rgba(83, 200, 144, 0.8);
+    font-family: 'Qwigley', cursive;
+    font-size: 25px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: rgba(201, 0, 184, 1);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 1;
+    text-shadow: 5px 5px 5px rgb(10, 39, 204);
+}
